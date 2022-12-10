@@ -1,0 +1,13 @@
+name: A5_shiny
+title: A5_shiny
+username:
+account: pauloh1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862102
+bundleId: 6619214
+url: https://pauloh1.shinyapps.io/A5_shiny/
+when: 1670654711.77352
+lastSyncTime: 1670654711.77355
+asMultiple: FALSE
+asStatic: FALSE
